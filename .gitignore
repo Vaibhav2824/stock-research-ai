@@ -34,5 +34,10 @@ Thumbs.db
 # Streamlit
 .streamlit/secrets.toml
 
-# Temp
+# Temp & Internal Docs
 _plan_text.txt
+CLAUDE.md
+Project_Summary_and_Publication_Plan.md
+TradeMind_Full_Plan.pdf
+test_output.txt
+test_*.py
